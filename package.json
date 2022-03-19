@@ -15,12 +15,12 @@
   ],
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "build": "react-app-rewired docs",
     "test": "CI=true react-app-rewired test",
     "eject": "react-scripts eject",
     "prettier:check": "prettier -c src/*",
     "prettier:write": "prettier -w src/*",
-    "deploy": "gh-pages -d build -m '[ci skip] Updates'"
+    "deploy": "gh-pages -d docs -m '[ci skip] Updates'"
   },
   "dependencies": {
     "@polkadot/api": "^7.10.1",
