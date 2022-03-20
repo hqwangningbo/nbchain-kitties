@@ -1,5 +1,8 @@
 ## NBchain-kitties
 
+![](./images/img_3.png)
+![](./images/img_4.png)
+
 
 ### 可能遇到的问题
 
