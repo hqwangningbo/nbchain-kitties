@@ -4,7 +4,7 @@
   "private": true,
   "author": "NingBo Wang <2536935847@qq.com>",
   "license": "Unlicense",
-  "homepage": "https://github.com/hqwangningbo/nbchain-kitties",
+  "homepage": ".",
   "bugs": {
     "url": "https://github.com/hqwangningbo/nbchain-kitties/issues"
   },
@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "prettier:check": "prettier -c src/*",
     "prettier:write": "prettier -w src/*",
-    "deploy": "gh-pages -d docs -m '[ci skip] Updates'"
+    "deploy": "gh-pages -d build -m '[ci skip] Updates'"
   },
   "dependencies": {
     "@polkadot/api": "^7.10.1",
