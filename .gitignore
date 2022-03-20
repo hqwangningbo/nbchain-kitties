@@ -11,3 +11,4 @@ coverage
 !.yarn/versions
 .pnp.*
 .idea
+.circleci
