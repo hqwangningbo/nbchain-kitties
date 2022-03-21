@@ -18,9 +18,9 @@
 
 解决办法：
 
-访问：[https://nbchain.wangningbo.com](https://nbchain.wangningbo.com)，点击继续前往
+访问：[https://nbchain.wangningbo.com](https://nbchain.wangningbo.com)，点击箭头继续前往
 
-![](./images/img.png)
+![](./images/img_5.png)
 
 出现下面的字段即为成功
 
